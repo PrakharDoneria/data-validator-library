@@ -3,8 +3,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='data_validation_library',
-    version='0.1.0',
+    name='data-validation-library',
+    version='0.1.1',
     packages=find_packages(),
     install_requires=[
         # List your library dependencies here
